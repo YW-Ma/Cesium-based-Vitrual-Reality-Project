@@ -14,6 +14,7 @@ Pre-requisites
 ----
 * [Node.js](https://nodejs.org/en/)
 * Only tested with win-64 system, not sure whether or not it work properly with Linux.
+* `.gltf` format models. Use [obj2gltf](https://github.com/YW-Ma/obj2gltf) to convert `.obj` file
 
 Install
 ----
