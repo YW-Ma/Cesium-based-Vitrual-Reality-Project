@@ -30,7 +30,7 @@ Usage
 * run `node server.js` in the terminal
 * Open your browser and goto `http://localhost:8080/` to open the main page of Cesium
 * Click `bumper cars` item
-* Adjust perspective with the instruction in this image:
+* Adjust perspective with the instruction in this image:\
 ![](https://github.com/YW-Ma/Cesium-based-Vitrual-Reality-Project/blob/master/images/HELP2.jpg)
-* Control your AE86 with the instruction in this image:
+* Control your AE86 with the instruction in this image:\
 ![](https://github.com/YW-Ma/Cesium-based-Vitrual-Reality-Project/blob/master/images/HELP1.jpg)
