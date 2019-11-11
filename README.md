@@ -2,6 +2,14 @@ Cesium-based-Vitrual-Reality-Project
 ========
 A VR Project developed on the Cesium framework.
 
+3D Models comes from...
+----
+* Room and ornaments - Created with 3DS Max 2016
+* Windows and Doors - Created with 3DS Max 2016
+* Desk - Created with 3DS Max 2016
+* AE86 - Download from www.aigei.com
+* Chair - Download from www.aigei.com
+
 Pre-requisites
 ----
 * [Nodejs](https://nodejs.org/en/)
